@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Art Shares
+title: Art SharesⓇ
 permalink: /artshares/
 ---
-
-**Demeteris Art SharesⓇ**
 
 *Making money is art -- Andy Warhol*
 
