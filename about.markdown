@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Demeteris Securities is a conceptual investment corporation that reveals the inner working and fatal consequences of the uncharted frontier of capitalism. Challenging the already blurry lines between the art and business worlds, the project revolves around the creation and sale of crypto-securities that encourage speculation on people’s inherent value. Our mock corporation will purchase from volunteers (including the audience and through an open call) the right to future use of their organs and digital identities, package these contractual rights into tradable securities, and then offer them for sale. By performing and precipitating this final wave of commoditization, we expose the absurd reality of our failing financial, economic, and social systems.
+Challenging the already blurry lines between the art and business worlds, Demeteris Securities  designs and builds crypto-securities markets that encourage speculation on people’s inherent value. Our goal is to create working marketplaces that reveal to your audiences the inner workings and fatal consequences of the uncharted frontier of capitalism.
+
+Our mock corporation will purchase from volunteers (among audience members and an online open call) the right to future use of their organs and digital identities, package these contractual rights into tradable securities, and then offer them for sale. We are also developing an art investment platform enabling festival goers to speculate on artists and their works.  
+
+By performing and precipitating this final wave of commoditization, we expose the absurd reality of our failing financial, economic, and social systems. Participants in our securities exchanges -- both on the issuing and purchasing end -- will learn about their own ethical standards and how flexible they become in the face of potential profits. 
 
 <img src="../assets/sine_complex.png" width="400"/>
 
 
-##The Death Rattle of Capitalism
+**Celebrating the Death Rattle of Capitalism**
 
 Democracy and capitalism are facing unprecedented challenges. A pandemic, environmental collapse, and racial tensions are eroding the foundations of the global order established -- or at least collectively imagined -- in the twentieth century. As predicted in the economic theories of Karl Marx, the Republic of Plato, and the world-systems of Immanuel Wallerstein, economic and political power has fallen into the hands of elites who deploy propaganda to manipulate the masses into acquiescence. 
 
@@ -23,7 +27,7 @@ These uncharted territories reveal highly profitable yet risky investment possib
 
 Financial markets have rarely been so volatile, so it is ironic that their popularity with investors has never been greater. It wasn’t until the end of the twentieth century that trading in stocks became a common investment tool. Before then, it was the domain of the elites. Now, young and non wealthy people trade highly sophisticated securities and derivatives from their smartphones, using apps such as Robin Hood and eToro. Some may make a profit, but the majority of individuals lose, sometimes with tragic results. Recently, 20-year-old Alex Kearns committed suicide after accumulating a $700,000 debt from margin trading on Robin Hood. 
 
-##Securities as Art and Art as Securities
+**Redefining Securities as Art and Art as Securities**
 
 Demeteris Securities is not only ethically abhorrent, it is completely illegal. Although the ethical issues with our project are deliberately calculated to foster healthy debate about capitalism’s insidious plans for us in the near future, the illegal aspects of our project must be dealt with. First of all, our contracts for organs will include fine print statements certifying that the agreements that they purport to memorialize are in fact unenforceable under current legal regimes. Second, all of the promotional documentation and contract certificates will include a disclaimer indicating that they are in facts works of art.
 
