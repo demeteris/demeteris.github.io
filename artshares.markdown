@@ -6,11 +6,11 @@ permalink: /artshares/
 
 *Making money is art -- Andy Warhol*
 
-The art market has consistently outperformed the equity and commodities markets, representing a means for investors to maximize their profits while supporting culture. Whether you are an investor or an artist seeking to raise money for your new projects, Demeteris Art Shares can bring your dreams to life.
+The art market has consistently outperformed the equity and commodities markets, representing a means for maximizing profits while supporting culture. Whether you are an investor looking for a competitive edge or an artist looking to capitalize on your creations, Demeteris Art Shares are the solution.
 
-Art investment funds currently sell shares in portfolios of artwork by reputable “blue chip” artists. We propose to cut out the middle man, and allow savvy art investors to directly purchase shares in the artwork presented at art festivals, but also shares in their future works. 
+Art investment funds currently issue and sell shares in portfolios of artwork by reputable “blue chip” artists. We cut out the middle man, and create a platform for savvy art investors to directly purchase shares in the artists they believe in. Just like a shareholder of a corporation, you will receive a proportional distribution of the profits made by the artist in the form of a dividend. And if you pick the right investment, you could see the value of your shares rise exponentially. 
 
-All of the shares will be purchased and traded on our blockchain enabled online exchange, which guarantees accurate pricing, easy transacting, and secure recording of ownership. In other words, the artwork will be securitized. At our sales booth in your festival, we will create a marketplace for the artwork that you have curated, by inviting artists to issue shares in their work, and then promoting the purchase of these shares among the attendees of the festival. 
+All of the shares will be purchased and traded on our blockchain enabled online exchange, which guarantees accurate pricing, easy transacting, and secure recording of ownership. In other words, the artist will be securitized. At our sales booth in your festival, we will create a marketplace for the artists that you have curated, issuing shares and promoting their purchase among the audience.
 
 **What Is Art?**
 
