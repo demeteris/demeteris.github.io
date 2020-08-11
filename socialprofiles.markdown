@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Social Profiles
+title: Social Media Use Contracts
+
 permalink: /socialprofiles/
 ---
 
