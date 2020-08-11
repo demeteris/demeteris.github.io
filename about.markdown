@@ -10,7 +10,7 @@ Our mock corporation will purchase from volunteers (among audience members and a
 
 By performing and precipitating this final wave of commoditization, we expose the absurd reality of our failing financial, economic, and social systems. Participants in our securities exchanges -- both on the issuing and purchasing end -- will learn about their own ethical standards and how flexible they become in the face of potential profits. 
 
-<center><img src="../assets/sine_complex.png" width="400"/></center>
+<center><img src="../assets/sine_complex.png" width="600"/></center>
 
 <br><br>
 **Board of Directors**
@@ -20,7 +20,7 @@ Legal Compliance Specialist
 Credit Suisse
 
 *Neo Christopher Chung, Ph.D. (co-founder)*  
-Assistant Professor in Computer Science
+Assistant Professor in Computer Science  
 Institute of Informatics, University of Warsaw
 
 *Brian L. Frye, J.D.*  

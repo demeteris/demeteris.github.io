@@ -6,6 +6,8 @@ permalink: /influence/
 
 The digital identities captured in data are central to capitalism’s final stage. Every single individual on the planet who is connected to the Internet has a unique and extensive profile, reflecting their browsing, chatting, and purchasing histories. These profiles are already traded by data brokers, and purchased by companies seeking to increase the accuracy of their advertisement targeting. Efforts are already being made to allow individuals to act as their own data brokers, but for now the profits available to individuals remain minimal, since the value of personal data is amplified when in the aggregate. 
 
+<center><img src="../assets/people_bw.jpg" alt="museum" width="600"/></center><br>
+
 **Open Marketplace for Online Influence**
 
 Demeteris Securities attempts to create an open marketplace for bidding on the value of a person’s online influence through data relating to their personal characteristics and social networks. Social influencers abound on various online platforms, and corporations are already paying large sums to create organic reach via advertisement masquerading as genuine content. We foresee a future way for them to further monetize and leverage their online clout. Anyone - certified influencer or not - may sell to companies the rights to use their online handles after their death, or the right to request a given number of posts or endorsements during life. This latter option recalls how billionaire mayor Mike Bloomberg paid young influencers to make favorable *Facebook* and *Instagram* posts about him.

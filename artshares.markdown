@@ -12,6 +12,8 @@ Art investment funds currently issue and sell shares in portfolios of artwork by
 
 All of the shares will be purchased and traded on our blockchain enabled online exchange, which guarantees accurate pricing, easy transacting, and secure recording of ownership. In other words, the art -- and in some cases, the artist -- will be securitized. At our sales booth in your festival, we will create a live marketplace for the art that you have curated by issuing shares and promoting their purchase among the audience.
 
+<center><img src="../assets/museum_bw.jpg" alt="museum" width="600"/></center><br>
+
 **What Is Art?**
 
 Our work is inspired by contemporary artworks that defy the conceptual boundaries between art and financial securities. Most notably, American artist and law professor Brian Frye recently sent a letter to the Securities and Exchange Commission, requesting that the regulatory body take administrative action against his issuance of unregulated securities, while simultaneously issuing ownership shares in this performance to the general public. 
